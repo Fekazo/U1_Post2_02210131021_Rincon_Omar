@@ -5,3 +5,6 @@ Proyecto Android desarrollado para la actividad GitFlow.
 
 ## Descripción
 Aplicación que muestra información sobre paradigmas de desarrollo móvil.
+
+
+echo 'FIX: Corrected build config' >> app/README.md
